@@ -1,0 +1,13 @@
+.nav-classic .header-middle-inner .contact-info .quickcontact .get-tuch{
+    margin-left: 15px;
+    margin-right: 0;
+}
+.nav-classic .header-middle-inner .contact-info .quickcontact .get-tuch:first-child {
+    text-align: right;
+    margin-right: 15px;
+}
+
+.nav-classic .site-branding h1, 
+.nav-classic .site-branding p{
+    text-align: center;
+}
